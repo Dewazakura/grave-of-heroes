@@ -1,0 +1,12 @@
+{
+  "unique": "69046784054dd32803b0ad6ab24461713c12c097590851b7a6467d239f2ee029969cdab0035f0041",
+  "timestamp": 1560789306,
+  "validatorSet": [
+    {
+      "address": "f621ea6b63e274fd31ec40c71a59d48abea59a09",
+      "power": 1
+    }
+  ],
+  "initApp": "",
+  "startApp": "echo \"no start command specified\""
+}
