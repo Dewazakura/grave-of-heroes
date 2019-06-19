@@ -1,4 +1,5 @@
 .DS_Store
+vue.config.js
 node_modules
 /dist
 
